@@ -1,0 +1,46 @@
+max@max-P6631 ~/Documents/RealTime/Examen $ sudo ./main.x 
+Examen Tps-Réel 2015 : problème des lecteurs/rédacteurs
+Redacteur 0 demande la ressource
+Lecteur 0 demande la ressource
+    Redacteur 0 écrit 1393475092
+Lecteur 1 demande la ressource
+Lecteur 2 demande la ressource
+    Lecteur 0 lit 1393475092
+Redacteur 1 demande la ressource
+Lecteur 3 demande la ressource
+Lecteur 4 demande la ressource
+Lecteur 5 demande la ressource
+    Lecteur 1 lit 1393475092
+Lecteur 6 demande la ressource
+Lecteur 7 demande la ressource
+Lecteur 8 demande la ressource
+Lecteur 9 demande la ressource
+Redacteur 2 demande la ressource
+    Lecteur 2 lit 1393475092
+Redacteur 3 demande la ressource
+Lecteur 10 demande la ressource
+    Lecteur 3 lit 1393475092
+Lecteur 11 demande la ressource
+Lecteur 12 demande la ressource
+Lecteur 13 demande la ressource
+Redacteur 4 demande la ressource
+Redacteur 5 demande la ressource
+    Lecteur 4 lit 1393475092
+Lecteur 14 demande la ressource
+    Lecteur 5 lit 1393475092
+    Lecteur 6 lit 1393475092
+    Lecteur 7 lit 1393475092
+    Lecteur 8 lit 1393475092
+    Lecteur 9 lit 1393475092
+    Lecteur 10 lit 1393475092
+    Lecteur 11 lit 1393475092
+    Lecteur 12 lit 1393475092
+    Lecteur 13 lit 1393475092
+    Lecteur 14 lit 1393475092
+    Redacteur 1 écrit 35176319
+    Redacteur 2 écrit 1066520707
+    Redacteur 3 écrit 1969316346
+    Redacteur 4 écrit 1182406400
+    Redacteur 5 écrit 1259913202
+Programme lecteurs/rédacteurs terminé
+ 

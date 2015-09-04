@@ -1,0 +1,17 @@
+Diner des Philosophes 
+
+Un Phi est dans l'état : PENSE/FAIM/MANGE
+
+5 asiettes, 5 fourchettes, table ronde
+Pour manger un phi à besoin de deux fourchette (gauche et droite)
+
+But de l'exercice;
+même temps de repas moyen  oour chaque phi
+
+Contrainte :
+temps max de famine (sinon -> mort)
+
+Données:
+- mange = 2s
+- pense = 2s
+- minimiser le tps faim
